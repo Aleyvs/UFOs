@@ -6,7 +6,11 @@ Add to the dynamic webpage for a more in-depth analysis of UFO sightings. To do 
 # Results
 Once they enter the website the user will be able to see the Title at the center with a comment from Ufologists. Underneath these paragraphs the user will find a table listing UFO sightings as well as a Filter Search section where they can filter for more specific sightings by Date, City, State, Country and Shape of UFO.
 
+![HomePage](images/MainScreen.png)
+
 To filter the table the user can select any one, several or all of the filters available so that the table only shows the desired list of sightings.
+
+![HomePage](images/FilterTable.png)
 
 # Summary
 We have created a webpage that includes all information desired as well as a dynamic table that can be modified with several different filters. We can filter the table with one, several or all the filters available and only see the desired data. 
